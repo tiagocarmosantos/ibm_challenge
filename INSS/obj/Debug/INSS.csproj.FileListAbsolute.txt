@@ -1,0 +1,5 @@
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\INSS\bin\Debug\INSS.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\INSS\bin\Debug\INSS.pdb
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\INSS\obj\Debug\INSS.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\INSS\obj\Debug\INSS.pdb

@@ -1,0 +1,16 @@
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\CalculadoraTest.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\CalculadoraTest.pdb
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\INSS.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\INSS.pdb
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\obj\Debug\CalculadoraTest.csprojAssemblyReference.cache
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\obj\Debug\CalculadoraTest.csproj.CoreCompileInputs.cache
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\obj\Debug\CalculadoraTest.csproj.CopyComplete
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\obj\Debug\CalculadoraTest.dll
+D:\Projetos\Sources\IBM\Problemas c#\Problemas\CalculadoraTest\obj\Debug\CalculadoraTest.pdb
